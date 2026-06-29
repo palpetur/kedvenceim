@@ -1,0 +1,12 @@
+.card{
+    color:white;
+    padding: 10px;
+    background-color: green;
+    border-radius: 2px;
+}
+.inner {
+    color:black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 2px;
+}
